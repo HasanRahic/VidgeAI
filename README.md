@@ -13,18 +13,18 @@
 ## Getting Started
   To get started with StudyBuddy, follow these simple steps:
   1. **Clone the Repository:**
-     ````
+     ```
      git clone https://github.com/HasanRahic/VidgeAI.git
-     ````
+     ```
   2. **Install Dependecies:**
-     ````
+     ```
       cd VidgeAI
       npm install
-     ````
+     ```
   3. **Run the Application:**
-     ````
+     ```
      npm start
-     ````
+     ```
   4. **Connect Your Device:**
       - Install the Expo Go app on your iOS or Android device.
       - Scan the QR code displayed in the terminal or web browser.
