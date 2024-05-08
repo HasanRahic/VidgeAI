@@ -4,11 +4,11 @@
 
 ## Features
   ### 1. Voice Assistance
-    VidgeAI comes equipped with a Voice AI feature that allows users to interact with the app using natural language commands. Whether you need to ask questions, set reminders, or receive study tips, VidgeAI's Voice AI is here to help.
+  VidgeAI comes equipped with a Voice AI feature that allows users to interact with the app using natural language commands. Whether you need to ask questions, set reminders, or receive study tips, VidgeAI's Voice AI is here to help.
   ### 2. Text Analysis
-    The Text AI feature in VidgeAI analyzes text-based study materials, providing users with insights, summaries, and key points. Say goodbye to tedious manual note-taking and let VidgeAI extract the most important information for you.
+  The Text AI feature in VidgeAI analyzes text-based study materials, providing users with insights, summaries, and key points. Say goodbye to tedious manual note-taking and let VidgeAI extract the most important information for you.
   ### 3. Video Comprehension
-    With Video AI, VidgeAI can process educational videos and extract valuable content. Users can quickly find relevant sections, review important concepts, and enhance their understanding of complex topics.
+  With Video AI, VidgeAI can process educational videos and extract valuable content. Users can quickly find relevant sections, review important concepts, and enhance their understanding of complex topics.
 
 ## Getting Started
   To get started with StudyBuddy, follow these simple steps:
